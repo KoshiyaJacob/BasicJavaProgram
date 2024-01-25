@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0df96ee1-29ff-4298-bda3-558e88d9f6bc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="0df96ee1-29ff-4298-bda3-558e88d9f6bc" name="Changes" comment="Ist commit, &#10;ANZBank--Interface, &#10;CommonWealth_AnzB --child of ANZBank&#10;NAB_Bank_Cwb--child of CommonWealth_AnzB&#10;BankExe ---execution &#10;&#10;Disclaimer:&#10;println display in red color &#10;Fail to call the method from NAB_Bank_Cwb">
       <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ANZBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BankExe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CommonWealth_AnzB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/NAB_Bank_Cwb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CommonWealth_AnzB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CommonWealth_AnzB.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,9 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2bQo6oT0lnEc93CETtmobfhQ42B" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -54,6 +47,20 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="BankExe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BankExe" />
+      <module name="Basic_Java_Program" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BankExe" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,6 +70,78 @@
       <option name="presentableId" value="Default" />
       <updated>1706156493328</updated>
     </task>
+    <task id="LOCAL-00001" summary="Ist commit, &#10;ANZBank--Interface, &#10;CommonWealth_AnzB --child of ANZBank&#10;NAB_Bank_Cwb--child of CommonWealth_AnzB&#10;BankExe ---execution &#10;&#10;Disclaimer:&#10;println display in red color &#10;Fail to call the method from NAB_Bank_Cwb">
+      <option name="closed" value="true" />
+      <created>1706158396746</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706158396746</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Paths">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="file:$PROJECT_DIR$/https:/github.com/KoshiyaJacob/BasicJavaProgram.git" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="file:$PROJECT_DIR$/https:/github.com/KoshiyaJacob/BasicJavaProgram.git" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ist commit, &#10;ANZBank--Interface, &#10;CommonWealth_AnzB --child of ANZBank&#10;NAB_Bank_Cwb--child of CommonWealth_AnzB&#10;BankExe ---execution &#10;&#10;Disclaimer:&#10;println display in red color &#10;Fail to call the method from NAB_Bank_Cwb" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ist commit, &#10;ANZBank--Interface, &#10;CommonWealth_AnzB --child of ANZBank&#10;NAB_Bank_Cwb--child of CommonWealth_AnzB&#10;BankExe ---execution &#10;&#10;Disclaimer:&#10;println display in red color &#10;Fail to call the method from NAB_Bank_Cwb" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/NAB_Bank_Cwb.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/BankExe.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/CommonWealth_AnzB.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

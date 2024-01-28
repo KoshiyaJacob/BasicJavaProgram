@@ -16,6 +16,8 @@ public class CommonWealth_AnzB implements ANZBank
     //we skipped to implement this method so we create child class
     public void openFixedDeposit()
     {
+        NAB_Bank_Cwb V = new NAB_Bank_Cwb();
+        V.openFixedDeposit();
 
     }
 
